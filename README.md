@@ -2,4 +2,4 @@
 
 A new Flutter project. Inspired by @mitchkoko
 
-![]('pic/job_app_pic.png')
+![](pic/job_app_pic.png)
